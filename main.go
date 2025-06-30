@@ -41,7 +41,7 @@ import (
 	clog "github.com/xtls/xray-core/common/log"
 
 	"github.com/xtls/xray-core/common/platform/filesystem"
-	"github.com/teddysun/xray-plugin/cmd/build"
+	"github.com/sbwml/xray-plugin/cmd/build"
 )
 
 var (

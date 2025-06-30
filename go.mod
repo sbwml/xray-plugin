@@ -1,4 +1,4 @@
-module github.com/teddysun/xray-plugin
+module github.com/sbwml/xray-plugin
 
 go 1.22
 
